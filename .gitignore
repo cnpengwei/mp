@@ -1,0 +1,17 @@
+#################
+## Eclipse
+#################
+
+
+# Others
+view/html/*.html
+sql/
+*.Cache
+ClientBin/
+[Ss]tyle[Cc]op.*
+~$*
+*~
+*.dbmdl
+*.[Pp]ublish.xml
+*.pfx
+*.publishsettings
